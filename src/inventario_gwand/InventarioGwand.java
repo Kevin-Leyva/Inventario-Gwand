@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package inventario.gwand;
+package inventario_gwand;
 
 /**
  *
@@ -16,7 +16,9 @@ public class InventarioGwand {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Holaaaaaaaaaa");
+        frames.main inicio = new frames.main();
+        inicio.setVisible(true);
+                
     }
     
 }
