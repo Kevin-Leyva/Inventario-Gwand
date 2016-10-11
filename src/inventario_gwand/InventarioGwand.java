@@ -5,6 +5,8 @@
  */
 package inventario_gwand;
 
+import frames.inciar_sesion;
+
 /**
  *
  * @author Kevin
@@ -16,7 +18,7 @@ public class InventarioGwand {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        frames.main inicio = new frames.main();
+        inciar_sesion inicio = new inciar_sesion();
         inicio.setVisible(true);
                 
     }
