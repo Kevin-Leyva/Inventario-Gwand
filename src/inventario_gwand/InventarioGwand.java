@@ -5,7 +5,7 @@
  */
 package inventario_gwand;
 
-import frames.inciar_sesion;
+import VistaPrincipal.inciar_sesion;
 
 /**
  *
